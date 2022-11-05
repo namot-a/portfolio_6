@@ -4,5 +4,5 @@ header, main
 2 step 2h 
 footer, adaptaion, mobile menu
 
-SUM: ~3h 30min.
+SUM: ~3h 30min
 
